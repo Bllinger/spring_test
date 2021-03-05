@@ -1,0 +1,5 @@
+# Project exclude paths
+/spring-aop/target/
+/spring-mybatis/target/
+/spring-proxy/target/
+/target/
